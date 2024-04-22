@@ -5,5 +5,5 @@ AAAA
 
 BBBB
 
-Fujioka Kuga
+でも朝はパン派
 
