@@ -1,4 +1,7 @@
 # README
 Hello, Git.
-AAA
-BBBBAAAA
+
+AAAA
+
+BBBB
+
